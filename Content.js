@@ -7,7 +7,9 @@ const unblocked = [
 
 
 
+document.title = "google";
 
-let currentUrl = window.location.href;
 
- if (currentUrl != "https://pooky2007.github.io/blocked.html") {window.location.href = "https://pooky2007.github.io/blocked.html"};
+function changeIcon(classname or id) {
+    $("i", this).toggleClass("icon-circle-arrow-up icon-circle-arrow-down");
+}
