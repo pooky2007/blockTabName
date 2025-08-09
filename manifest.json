@@ -4,7 +4,7 @@
   "version": "1.0.0",
    "action": {
     "default_popup": "popup.html",
-    "default_icon": "lalalaICAntHEARyOU.png"
+    "default_icon": "Google-favicon-2015.png"
   },
   "content_scripts": [
     {
